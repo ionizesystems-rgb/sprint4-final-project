@@ -1,13 +1,13 @@
 *I am adding the executive summary here since the upload of my Colab notebook imported some errors in this section*
 
-# Executive Summary
+## Executive Summary
 
 *Data covers September 2016 to October 2018. The first few months of 2016 and the last two months of 2018 have very few orders because the dataset starts and ends partway through, so they're left out of the trend analysis.*
 
 
 ### Business Health
 
-The business is healthy. Out of 99,441 orders, 97% were delivered (96,478) and only 0.63% were canceled (625). Orders grew steadily through 2017, from 800 in January to a peak of 7,544 in November (likely boosted by Black Friday). Through 2018, volume held strong at around 6,750 orders per month from January to August, which shows the growth from 2017 stuck.
+The business is healthy. Out of 99,441 orders, 97% were delivered (96,478) and only 0.63% were canceled (625). Orders grew steadily through 2017, from 800 in January to a peak of 7,544 in November. Through 2018, volume held strong at around 6,750 orders per month from January to August, which shows the growth from 2017 stuck.
 
 
 ### Top Categories
